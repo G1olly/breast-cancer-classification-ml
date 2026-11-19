@@ -51,6 +51,18 @@ Wisconsin (Diagnostic) dataset.
 
 Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 
+### Dataset Attribution
+
+Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993).
+Breast Cancer Wisconsin (Diagnostic).
+UCI Machine Learning Repository.
+
+DOI: https://doi.org/10.24432/C5DW2B
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+The original dataset is provided without modifications.
+
 ## ⚠️ Disclaimer
 
 This project was developed for academic and educational
